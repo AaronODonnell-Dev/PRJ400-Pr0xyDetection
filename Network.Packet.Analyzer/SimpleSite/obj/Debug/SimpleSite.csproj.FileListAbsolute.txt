@@ -1,0 +1,7 @@
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\bin\Debug\SimpleSite.exe.config
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\bin\Debug\SimpleSite.exe
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\bin\Debug\SimpleSite.pdb
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\obj\Debug\SimpleSite.csprojAssemblyReference.cache
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\obj\Debug\SimpleSite.csproj.CoreCompileInputs.cache
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\obj\Debug\SimpleSite.exe
+E:\College 4th Year\Project 400\Network.Packet.Analyzer\SimpleSite\obj\Debug\SimpleSite.pdb
